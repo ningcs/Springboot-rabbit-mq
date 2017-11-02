@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-rabbit-direct-receiver" />
+        <module name="springboot-rabbit-direct-sender" />
+        <module name="springboot-rabbit-fanout-receiver" />
+        <module name="springboot-rabbit-fanout-sender" />
+        <module name="springboot-rabbit-mq" />
+        <module name="springboot-rabbit-receiver" />
+        <module name="springboot-rabbit-topic-receiver" />
+        <module name="springboot-rabbit-topic-sender" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.5" />
+      <module name="rabbitmq" target="1.5" />
+      <module name="springboot-rabbit-direct-receiver" target="1.8" />
+      <module name="springboot-rabbit-direct-sender" target="1.8" />
+      <module name="springboot-rabbit-fanout-receiver" target="1.8" />
+      <module name="springboot-rabbit-fanout-sender" target="1.8" />
+      <module name="springboot-rabbit-headers-receiver" target="1.8" />
+      <module name="springboot-rabbit-headers-sender" target="1.8" />
+      <module name="springboot-rabbit-mq" target="1.8" />
+      <module name="springboot-rabbit-recciver" target="1.8" />
+      <module name="springboot-rabbit-receiver" target="1.8" />
+      <module name="springboot-rabbit-sender" target="1.8" />
+      <module name="springboot-rabbit-topic-receiver" target="1.8" />
+      <module name="springboot-rabbit-topic-sender" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

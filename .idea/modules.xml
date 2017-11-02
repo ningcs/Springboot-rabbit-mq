@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbit-direct-receiver/springboot-rabbit-direct-receiver.iml" filepath="$PROJECT_DIR$/springboot-rabbit-direct-receiver/springboot-rabbit-direct-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbit-direct-sender/springboot-rabbit-direct-sender.iml" filepath="$PROJECT_DIR$/springboot-rabbit-direct-sender/springboot-rabbit-direct-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbit-fanout-receiver/springboot-rabbit-fanout-receiver.iml" filepath="$PROJECT_DIR$/springboot-rabbit-fanout-receiver/springboot-rabbit-fanout-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbit-fanout-sender/springboot-rabbit-fanout-sender.iml" filepath="$PROJECT_DIR$/springboot-rabbit-fanout-sender/springboot-rabbit-fanout-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbit-mq.iml" filepath="$PROJECT_DIR$/springboot-rabbit-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbit-topic-receiver/springboot-rabbit-topic-receiver.iml" filepath="$PROJECT_DIR$/springboot-rabbit-topic-receiver/springboot-rabbit-topic-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbit-topic-sender/springboot-rabbit-topic-sender.iml" filepath="$PROJECT_DIR$/springboot-rabbit-topic-sender/springboot-rabbit-topic-sender.iml" />
+    </modules>
+  </component>
+</project>
